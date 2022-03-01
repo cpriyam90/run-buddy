@@ -12,3 +12,5 @@ https://cpriyam90.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Priyam Chirawawala
+
+### ©️2019 Run Buddy, Inc
